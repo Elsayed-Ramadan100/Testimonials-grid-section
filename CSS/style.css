@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Barlow Semi Condensed', sans-serif;
-    background-color: hsl(0, 0%, 81%);
+    background-color: hsl(214, 17%, 92%);
     font-size: 13px;
 }
 
@@ -216,6 +216,14 @@ main {
     .marks img {
         display: none;
     }
+
+    .kira,
+    .jeanette,
+    .patraick,
+    .daniel,
+    .jonathan {
+        box-shadow: none;
+    }
 }
 
 
@@ -227,6 +235,4 @@ main {
         width: 100%;
         margin: 87px 34px;
     }
-
-
 }
