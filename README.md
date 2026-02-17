@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: https://github.com/Elsayed-Ramadan100/Testimonials-grid-section
+- Live Site URL: https://elsayed-ramadan100.github.io/Testimonials-grid-section/
 
 ## My process
 
